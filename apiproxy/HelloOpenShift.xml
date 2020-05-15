@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="HelloOpenShift">
+    <Basepaths>/helloopenshift</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589578357544</CreatedAt>
+    <CreatedBy>sanjaymarathe007@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>HelloOpenShift</DisplayName>
+    <HostedManifestVersion>SHA-512:be667c1625d200c67210d37b4bc3ebe44ece924e455e366c6a9177dd7c66153e75ac59d228f1388cc28bf3995dd3cc9f837f958cc7dcdfc83a0fe91b151cef6d:us-east-1</HostedManifestVersion>
+    <LastModifiedAt>1589578357544</LastModifiedAt>
+    <LastModifiedBy>sanjaymarathe007@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:5dc526482fb08d2782cd550a6130a081f4b295d4da9f3f4fb660745cbcd2e9bcb7f31ea67009c55be9c2694a5044155a624950febf5d537ce3fc01357691ab6b</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>hosted://app.yaml</Resource>
+        <Resource>hosted://index.js</Resource>
+        <Resource>hosted://package.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
